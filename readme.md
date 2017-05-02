@@ -77,11 +77,11 @@ So bad example of labels over rives and road.					Better distribution, spacing a
 
 ## Label placement reference (Polygon)
 
-![](img\polygon.png)
+![](img/polygon.png)
 
 # Topography
 
-![](img\3d.png)
+![](img/3d.png)
 
 This image is an example of a hillshade created from raster data that has also been rotated to give a perspective view.
 
@@ -93,21 +93,21 @@ This image is an example of a hillshade created from raster data that has also b
 
 ### •Terrain shading
 
-![](img\all_3.png)
+![](img/all_3.png)
 
 
 
 ## Shaded Relief  Terrain Representation
 
-![](img\illumination.png)
+![](img/illumination.png)
 
 ## Hypsometric tint + shaded relief
 
-![](img\shaded_hypso.png)
+![](img/shaded_hypso.png)
 
 ## Terrain exaggeration
 
-![](img\exaggeration.png)
+![](img/exaggeration.png)
 
 
 
