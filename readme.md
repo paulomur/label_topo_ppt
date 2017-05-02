@@ -43,7 +43,11 @@ Improve contrast with the background. Never exaggerated the halo!
 
 ![](img/halos.png)
 
-## **Type placement guidelines**
+## Callouts
+
+![](img/callouts.png)
+
+## Type placement guidelines**
 
 ### **Points, Lines and Polygons**.
 
@@ -109,7 +113,13 @@ This image is an example of a hillshade created from raster data that has also b
 
 ![](img/exaggeration.png)
 
+## Combination
 
+![](img/venezuela.png)
+
+## Bathymetric maps
+
+![](img/baty.png)
 
 ## Resources 
 
